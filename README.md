@@ -13,7 +13,7 @@ The dataset used in this project is sourced from the **PTB-XL ECG dataset**, whi
 - **Multiple classes**: Normal, Myocardial Infarction, ST-T changes, Conduction Disturbance, Hypertrophy, etc.
 - **CSV files** that capture time-series ECG signals for thousands of patients.
 
-The dataset was pre-processed and cleaned to fit into the CNN-LSTM model with normalization and shape adjustments.
+The dataset was pre-processed and cleaned to fit into the CNN-LSTM model with normalization and shape adjustments
 
 
 
