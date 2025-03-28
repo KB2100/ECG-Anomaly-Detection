@@ -17,7 +17,7 @@ The dataset was pre-processed and cleaned to fit into the CNN-LSTM model with no
 
 
 
-## 💻 Technologies Used
+## 💻 Technologies Used:
 The project leverages the following technologies:
 - **Python 3.10+**
 - **TensorFlow / Keras** (For CNN-LSTM model)
